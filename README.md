@@ -7,7 +7,7 @@
 |---------|---------|--------|---------------|-------------------|-------------|
 | v1.0 | ibm_marrakesh | 3 | 98.5% | 99.1% | +0.6% |
 | v2.0 | ibm_fez | 5 | 88.99% | 93.06% | +4.57% |
-
+| v3.0 | Transformer QNN | ibm_fez | 5 | 56.90% | 99.80% | +75.40% |
 ## 🔬 Overview
 A hybrid classical–quantum framework that learns to correct
 readout errors, depolarizing noise and crosstalk from real
