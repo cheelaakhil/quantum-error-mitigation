@@ -1,0 +1,13 @@
+═══════════════════════════════════════
+   QNN Error Mitigation — Job Records
+   Author: Akhil Cheela
+═══════════════════════════════════════
+
+v1  — ibm_marrakesh — d6mr548bfi7c7...  — 3/8/26
+v2  — ibm_fez       — d6npvr69td6c7...  — 3/10/26
+v2b — ibm_fez       — d6nq36s3pels7...  — 3/10/26
+v2c — ibm_fez       — d6nqc2s3pels7...  — 3/10/26
+
+All jobs: Completed ✅
+Backend 1: ibm_marrakesh
+Backend 2: ibm_fez
